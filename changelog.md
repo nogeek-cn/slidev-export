@@ -18,3 +18,11 @@ npm i
 
 
 ```
+
+说明文档：
+
+```html
+
+https://cn.sli.dev/guide/
+
+```
