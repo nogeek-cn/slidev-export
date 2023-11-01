@@ -67,6 +67,14 @@
   <!--    </div>-->
   <!--  </footer>-->
 
+<!--  <footer-->
+<!--      v-if="$slidev.nav.currentPage !== 1 && $slidev.nav.currentPage !== $slidev.nav.total"-->
+<!--      class="absolute top-0 right-0  p-2"-->
+<!--  >-->
+<!--    <button class="icon-btn" title="Next" @click="$slidev.nav.next">-->
+<!--      下一页-->
+<!--    </button>-->
+<!--  </footer>-->
 
   <footer
       v-if="$slidev.nav.currentPage !== 1 && $slidev.nav.currentPage !== $slidev.nav.total"
@@ -91,7 +99,7 @@
   </footer>
 
   <footer
-      v-if="$slidev.nav.currentPage !== $slidev.nav.total"
+      v-if="$slidev.nav.currentPage !== 1 && $slidev.nav.currentPage !== $slidev.nav.total"
       class="absolute bottom-0px right-0  p-2"
       style="padding-right: 3.5rem;
           padding-bottom: 2.5rem">
