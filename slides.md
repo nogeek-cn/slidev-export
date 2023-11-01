@@ -9,7 +9,7 @@ transition: fade-out
 mdc: true
 hideInToc: true
 background: null
-title: 华为申请注册「遥遥领先」商标。
+#title: 华为申请注册「遥遥领先」商标。
 ---
 
 # 华为申请注册「遥遥领先」商标。
