@@ -104,7 +104,7 @@
       style="padding-right: 3.5rem;
           padding-bottom: 2.5rem">
     <div>
-      <img alt="微信公众号" style="width: 10rem; height: 10rem" src="assets/wxpublic.png"/>
+      <img alt="微信公众号" style="width: 10rem; height: 10rem" src="https://private.nogeek.cn/wxpublic.png"/>
     </div>
   </footer>
 
